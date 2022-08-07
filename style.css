@@ -19,3 +19,30 @@
     border-radius: 8px;
     padding: 10px 15px;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: yellow;
+   
+}
+.cat2{
+    background-color: #ff136f;
+}
+.cat3{
+    background-color: greenyellow;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
+}
+#subscribe{
+    height: 200px;
+}
+#subscribe p{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
